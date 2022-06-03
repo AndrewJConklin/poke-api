@@ -3,7 +3,7 @@ package com.coolpokemon.pokeapi.pokemon;
 import java.util.Map;
 import java.util.HashMap;
 
-import com.coolpokemon.pokeapi.exception.ResourceNotFoundException;
+import com.coolpokemon.pokeapi.pokemon.exception.ResourceNotFoundException;
 import com.coolpokemon.pokeapi.pokemon.Pokemon;
 import com.coolpokemon.pokeapi.pokemon.PokemonService;
 
