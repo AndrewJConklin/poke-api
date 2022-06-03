@@ -1,12 +1,4 @@
-DROP TABLE pokemon;
-
-CREATE TABLE pokemon (
-  id INT PRIMARY KEY,
-  name VARCHAR(255),
-  image_URL VARCHAR(255)
-);
-
-INSERT INTO pokemon (id, name, image_URL) VALUES (
+INSERT INTO pokemon (id, name, image_url) VALUES (
   '1',
   'bulbasaur',
   'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png'
