@@ -1,4 +1,4 @@
-package com.coolpokemon.pokeapi.exception;
+package com.coolpokemon.pokeapi.pokemon.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
